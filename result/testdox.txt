@@ -1,0 +1,14 @@
+MasterCard\Api\Remittance\All
+ [x] 12 example quotes 1
+ [x] 13 example quotes 2
+ [x] 15 example remit payment
+ [x] 17 example remit funding payment
+ [x] 20 example retrieve remittance by id
+ [x] 21 example retrieve remittance by reference
+ [x] 23 example quotes 3
+ [x] 25 example remit payment 1
+ [x] 27 example cancel remittance
+ [x] 33003 SanctionScreening NonTokenized
+ [x] 33004 SanctionScreeningBy Tokenized ConsumerId
+ [x] 33005 SanctionScreening Tokenized ConsumerReference
+
