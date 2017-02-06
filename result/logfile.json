@@ -1,0 +1,165 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 12
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "tests": 12
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_12_example_quotes_1"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_12_example_quotes_1",
+    "status": "pass",
+    "time": 18.492164850235,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_13_example_quotes_2"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_13_example_quotes_2",
+    "status": "pass",
+    "time": 2.3841419219971,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_15_example_remit_payment"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_15_example_remit_payment",
+    "status": "pass",
+    "time": 2.5486371517181,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_17_example_remit_funding_payment"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_17_example_remit_funding_payment",
+    "status": "pass",
+    "time": 2.3024671077728,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_20_example_retrieve_remittance_by_id"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_20_example_retrieve_remittance_by_id",
+    "status": "pass",
+    "time": 0.57311701774597,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_21_example_retrieve_remittance_by_reference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_21_example_retrieve_remittance_by_reference",
+    "status": "pass",
+    "time": 0.58650493621826,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_23_example_quotes_3"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_23_example_quotes_3",
+    "status": "pass",
+    "time": 2.3273658752441,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_25_example_remit_payment_1"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_25_example_remit_payment_1",
+    "status": "pass",
+    "time": 2.2488307952881,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_27_example_cancel_remittance"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_27_example_cancel_remittance",
+    "status": "pass",
+    "time": 2.3246500492096,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33003_SanctionScreening_NonTokenized"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33003_SanctionScreening_NonTokenized",
+    "status": "pass",
+    "time": 0.498615026474,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId",
+    "status": "pass",
+    "time": 0.38928198814392,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Remittance\\AllTest",
+    "test": "MasterCard\\Api\\Remittance\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference",
+    "status": "pass",
+    "time": 0.42876505851746,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

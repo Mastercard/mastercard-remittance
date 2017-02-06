@@ -1,0 +1,14 @@
+TAP version 13
+ok 1 - MasterCard\Api\Remittance\AllTest::test_12_example_quotes_1
+ok 2 - MasterCard\Api\Remittance\AllTest::test_13_example_quotes_2
+ok 3 - MasterCard\Api\Remittance\AllTest::test_15_example_remit_payment
+ok 4 - MasterCard\Api\Remittance\AllTest::test_17_example_remit_funding_payment
+ok 5 - MasterCard\Api\Remittance\AllTest::test_20_example_retrieve_remittance_by_id
+ok 6 - MasterCard\Api\Remittance\AllTest::test_21_example_retrieve_remittance_by_reference
+ok 7 - MasterCard\Api\Remittance\AllTest::test_23_example_quotes_3
+ok 8 - MasterCard\Api\Remittance\AllTest::test_25_example_remit_payment_1
+ok 9 - MasterCard\Api\Remittance\AllTest::test_27_example_cancel_remittance
+ok 10 - MasterCard\Api\Remittance\AllTest::test_33003_SanctionScreening_NonTokenized
+ok 11 - MasterCard\Api\Remittance\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId
+ok 12 - MasterCard\Api\Remittance\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference
+1..12
